@@ -1,0 +1,266 @@
+"immigr","emo","tone","eth","treat","age","educ","gender","income"
+4,7,0,1,0,45,"high school","male",13
+3,6,0,0,0,73,"bachelor's degree or higher","male",16
+3,8,1,0,0,53,"some college","female",3
+4,9,1,1,1,45,"high school","male",14
+2,5,0,1,0,55,"some college","female",12
+4,5,1,1,1,85,"high school","female",3
+4,10,1,1,1,58,"high school","female",10
+4,8,1,0,0,53,"some college","male",9
+3,8,1,1,1,52,"some college","female",14
+2,3,0,0,0,42,"some college","male",15
+4,11,0,0,0,38,"bachelor's degree or higher","female",9
+4,9,0,0,0,38,"high school","male",6
+3,8,0,0,0,26,"bachelor's degree or higher","female",10
+4,10,1,1,1,52,"some college","male",11
+2,3,1,1,1,48,"some college","male",19
+4,12,1,0,0,62,"high school","female",10
+4,9,1,1,1,41,"less than high school","female",7
+4,6,0,1,0,54,"high school","male",11
+4,8,1,1,1,69,"high school","female",9
+1,6,1,1,1,71,"less than high school","male",6
+2,4,0,1,0,62,"some college","male",14
+3,3,1,0,0,41,"some college","male",13
+4,7,0,1,0,60,"high school","female",11
+4,6,0,0,0,62,"some college","male",17
+4,7,0,0,0,31,"bachelor's degree or higher","male",13
+2,4,0,1,0,50,"some college","female",13
+4,9,0,1,0,48,"high school","male",7
+2,6,1,0,0,29,"some college","male",10
+4,9,0,1,0,64,"high school","female",5
+4,4,0,1,0,65,"high school","female",12
+4,12,0,0,0,66,"less than high school","female",4
+4,11,1,1,1,68,"high school","female",9
+3,6,0,0,0,43,"high school","female",15
+3,7,0,1,0,57,"bachelor's degree or higher","female",12
+4,9,0,1,0,41,"high school","male",11
+3,7,1,0,0,85,"bachelor's degree or higher","male",13
+4,8,0,0,0,70,"bachelor's degree or higher","male",15
+4,8,0,1,0,65,"bachelor's degree or higher","male",14
+4,11,1,0,0,67,"less than high school","female",11
+2,6,1,1,1,68,"some college","female",9
+2,5,1,0,0,64,"some college","male",13
+4,10,1,1,1,37,"some college","male",13
+4,10,0,1,0,45,"high school","female",7
+4,9,0,1,0,81,"less than high school","female",14
+3,6,1,0,0,51,"high school","female",10
+4,10,1,1,1,53,"some college","male",12
+4,6,0,0,0,62,"high school","female",9
+4,9,1,0,0,42,"less than high school","male",8
+4,8,1,1,1,71,"some college","female",12
+4,11,1,1,1,56,"high school","male",11
+4,10,1,1,1,67,"less than high school","female",8
+2,7,0,0,0,77,"some college","female",6
+4,11,1,1,1,24,"some college","female",15
+2,7,0,0,0,42,"high school","male",3
+2,3,0,1,0,25,"bachelor's degree or higher","female",11
+4,8,1,1,1,60,"high school","female",12
+1,10,1,1,1,43,"some college","male",14
+3,9,1,1,1,60,"some college","male",6
+4,11,0,0,0,31,"high school","male",11
+3,7,1,0,0,47,"some college","female",13
+2,3,1,1,1,32,"bachelor's degree or higher","female",10
+3,8,1,0,0,66,"some college","male",8
+4,6,1,0,0,44,"high school","female",15
+3,6,1,0,0,46,"high school","male",17
+2,3,0,0,0,41,"high school","female",10
+3,7,1,0,0,75,"high school","female",9
+4,12,1,1,1,53,"bachelor's degree or higher","male",10
+2,3,0,1,0,60,"bachelor's degree or higher","male",12
+2,4,0,1,0,75,"high school","female",2
+4,12,1,0,0,45,"high school","male",9
+4,12,1,0,0,69,"less than high school","female",5
+3,6,0,0,0,67,"high school","female",15
+2,5,0,0,0,20,"high school","male",9
+2,6,1,1,1,43,"bachelor's degree or higher","male",16
+4,9,0,0,0,32,"some college","male",10
+3,5,0,1,0,39,"high school","male",12
+2,4,0,1,0,53,"bachelor's degree or higher","female",13
+4,12,1,0,0,57,"some college","female",2
+3,8,0,0,0,62,"high school","female",7
+4,9,1,0,0,69,"high school","female",7
+4,7,1,0,0,44,"high school","female",13
+4,12,1,1,1,57,"high school","male",11
+2,7,0,0,0,27,"some college","female",15
+2,7,0,1,0,82,"bachelor's degree or higher","female",17
+3,6,0,0,0,84,"high school","male",12
+2,5,0,1,0,54,"some college","female",13
+4,4,1,0,0,36,"less than high school","male",11
+4,12,1,1,1,47,"some college","male",13
+4,3,1,1,1,28,"bachelor's degree or higher","female",12
+4,4,1,0,0,42,"high school","female",14
+4,7,0,1,0,60,"high school","male",6
+3,3,1,1,1,55,"bachelor's degree or higher","male",15
+4,9,1,0,0,55,"high school","female",6
+4,12,0,0,0,61,"some college","male",12
+2,5,0,1,0,84,"high school","female",11
+1,10,0,0,0,45,"high school","female",3
+3,8,1,1,1,67,"some college","male",7
+4,11,1,0,0,24,"some college","male",12
+4,10,1,0,0,64,"less than high school","male",11
+4,10,1,1,1,72,"high school","female",7
+1,12,1,0,0,40,"high school","female",4
+4,9,0,0,0,35,"bachelor's degree or higher","female",11
+4,12,1,1,1,69,"high school","female",8
+4,11,1,1,1,30,"less than high school","female",6
+3,8,1,0,0,45,"high school","female",7
+2,3,0,0,0,35,"some college","male",9
+3,10,0,0,0,47,"high school","male",11
+2,5,0,0,0,53,"some college","male",11
+2,9,0,1,0,75,"high school","male",4
+3,8,1,1,1,70,"high school","female",13
+4,7,1,1,1,56,"high school","female",8
+3,8,0,1,0,70,"less than high school","female",7
+2,4,0,0,0,35,"bachelor's degree or higher","male",11
+4,12,1,1,1,54,"bachelor's degree or higher","female",11
+2,5,1,0,0,76,"bachelor's degree or higher","male",12
+4,9,1,1,1,65,"high school","female",13
+2,5,1,0,0,22,"high school","male",12
+4,8,0,1,0,28,"high school","male",13
+3,3,0,0,0,26,"bachelor's degree or higher","male",11
+4,5,1,1,1,67,"high school","male",13
+3,5,0,0,0,58,"high school","male",13
+3,6,0,1,0,34,"some college","female",16
+2,5,1,0,0,29,"bachelor's degree or higher","female",1
+4,10,0,1,0,61,"less than high school","male",13
+4,11,0,0,0,58,"some college","female",6
+2,5,1,1,1,46,"some college","female",10
+4,8,0,1,0,73,"less than high school","female",6
+1,3,0,0,0,23,"bachelor's degree or higher","male",1
+3,4,0,1,0,19,"high school","male",15
+2,4,1,0,0,35,"some college","male",8
+3,4,1,0,0,29,"bachelor's degree or higher","male",19
+3,3,1,0,0,53,"bachelor's degree or higher","male",8
+3,7,0,1,0,72,"bachelor's degree or higher","male",12
+1,5,0,1,0,36,"bachelor's degree or higher","male",14
+3,11,1,1,1,26,"less than high school","male",5
+4,7,1,0,0,46,"bachelor's degree or higher","female",13
+4,9,0,1,0,31,"high school","male",6
+4,8,1,0,0,70,"high school","female",1
+3,7,0,0,0,65,"bachelor's degree or higher","male",13
+2,4,0,0,0,69,"less than high school","female",1
+2,4,0,0,0,72,"bachelor's degree or higher","male",11
+4,12,1,1,1,71,"less than high school","female",13
+3,4,1,0,0,62,"some college","male",12
+3,7,0,1,0,37,"bachelor's degree or higher","male",13
+3,3,1,0,0,36,"high school","female",5
+3,4,0,0,0,47,"some college","female",9
+3,5,0,1,0,47,"bachelor's degree or higher","male",16
+3,3,1,1,1,28,"bachelor's degree or higher","male",4
+2,5,1,0,0,34,"bachelor's degree or higher","female",11
+2,3,1,0,0,69,"bachelor's degree or higher","male",10
+3,10,0,1,0,47,"high school","male",12
+4,11,1,1,1,73,"high school","male",11
+2,3,0,1,0,63,"high school","female",10
+2,7,1,0,0,33,"less than high school","male",1
+2,7,1,1,1,42,"high school","female",6
+4,5,0,1,0,43,"high school","female",7
+2,3,0,0,0,50,"bachelor's degree or higher","female",16
+3,6,1,0,0,56,"bachelor's degree or higher","male",10
+2,6,0,1,0,28,"some college","female",11
+4,8,1,1,1,44,"some college","female",13
+1,5,0,1,0,38,"bachelor's degree or higher","female",9
+2,11,1,1,1,34,"bachelor's degree or higher","female",14
+2,3,1,0,0,56,"some college","male",16
+2,4,0,1,0,47,"bachelor's degree or higher","male",11
+4,7,0,0,0,42,"bachelor's degree or higher","male",7
+2,4,0,1,0,53,"some college","female",16
+1,4,0,1,0,38,"bachelor's degree or higher","female",11
+3,6,1,0,0,50,"bachelor's degree or higher","female",11
+3,8,0,1,0,21,"high school","male",15
+3,5,0,0,0,25,"some college","male",18
+4,5,0,1,0,58,"high school","female",16
+3,5,0,0,0,39,"some college","male",10
+4,12,0,0,0,26,"some college","female",7
+4,8,0,0,0,61,"some college","female",8
+1,5,1,1,1,29,"some college","female",11
+4,12,0,1,0,39,"some college","female",12
+4,7,1,0,0,40,"bachelor's degree or higher","male",11
+2,4,1,1,1,30,"bachelor's degree or higher","female",11
+1,3,1,0,0,64,"bachelor's degree or higher","female",10
+3,10,1,0,0,50,"less than high school","male",5
+4,9,1,0,0,33,"bachelor's degree or higher","female",12
+4,6,0,1,0,35,"high school","male",9
+3,6,1,1,1,26,"bachelor's degree or higher","female",16
+4,10,1,1,1,44,"some college","male",16
+4,6,1,1,1,44,"some college","male",13
+4,12,1,1,1,25,"some college","male",11
+1,3,0,1,0,44,"bachelor's degree or higher","male",17
+4,9,1,0,0,51,"bachelor's degree or higher","female",17
+3,5,1,0,0,62,"bachelor's degree or higher","female",14
+4,3,0,0,0,55,"bachelor's degree or higher","female",18
+3,5,0,1,0,43,"bachelor's degree or higher","male",13
+3,3,0,0,0,53,"bachelor's degree or higher","male",12
+3,6,0,1,0,49,"some college","female",10
+2,5,0,1,0,34,"some college","male",11
+4,9,0,0,0,36,"high school","male",11
+3,3,1,0,0,31,"bachelor's degree or higher","male",11
+2,5,0,0,0,57,"bachelor's degree or higher","female",15
+1,6,1,0,0,18,"less than high school","female",16
+3,5,0,1,0,37,"bachelor's degree or higher","female",12
+1,3,0,1,0,63,"bachelor's degree or higher","male",16
+3,8,1,0,0,48,"bachelor's degree or higher","female",16
+4,12,0,0,0,32,"high school","male",13
+2,7,1,0,0,28,"some college","female",9
+3,6,0,0,0,45,"high school","female",13
+4,7,1,1,1,59,"some college","male",13
+3,11,0,0,0,82,"high school","female",10
+2,4,1,0,0,62,"bachelor's degree or higher","female",2
+3,4,1,1,1,35,"bachelor's degree or higher","female",19
+1,4,0,0,0,47,"some college","female",15
+2,11,0,1,0,65,"some college","male",15
+4,8,1,1,1,62,"high school","male",13
+4,7,0,0,0,59,"bachelor's degree or higher","female",18
+2,6,0,0,0,51,"bachelor's degree or higher","female",9
+4,8,1,1,1,33,"high school","female",12
+3,9,1,1,1,27,"some college","female",8
+2,5,1,0,0,54,"bachelor's degree or higher","female",10
+1,3,0,1,0,58,"bachelor's degree or higher","male",5
+2,3,1,0,0,20,"some college","male",3
+3,3,0,1,0,47,"bachelor's degree or higher","male",5
+4,10,1,0,0,29,"high school","male",12
+4,12,0,1,0,54,"high school","female",4
+3,7,1,1,1,24,"bachelor's degree or higher","female",7
+4,12,1,0,0,47,"high school","female",10
+2,7,0,1,0,25,"some college","female",11
+3,5,0,0,0,28,"high school","male",10
+3,7,1,0,0,57,"bachelor's degree or higher","male",16
+4,10,0,0,0,26,"high school","male",8
+3,7,1,1,1,43,"high school","male",7
+4,6,0,0,0,35,"high school","male",12
+2,7,0,0,0,29,"bachelor's degree or higher","female",11
+3,5,1,0,0,26,"some college","female",14
+4,12,0,1,0,18,"high school","female",15
+1,3,0,0,0,60,"bachelor's degree or higher","female",12
+2,3,0,0,0,42,"bachelor's degree or higher","female",15
+4,10,1,1,1,29,"high school","female",15
+1,5,0,1,0,57,"bachelor's degree or higher","female",10
+4,10,1,0,0,53,"high school","female",14
+3,3,0,1,0,27,"some college","male",6
+4,9,1,1,1,25,"bachelor's degree or higher","male",8
+2,7,0,1,0,37,"some college","female",7
+3,7,1,1,1,25,"some college","female",12
+3,4,1,1,1,38,"bachelor's degree or higher","female",13
+3,5,1,1,1,39,"bachelor's degree or higher","female",15
+4,7,1,1,1,26,"some college","male",7
+3,5,0,0,0,45,"bachelor's degree or higher","female",18
+4,5,1,0,0,27,"some college","male",13
+2,3,0,1,0,46,"high school","male",12
+3,5,1,1,1,62,"high school","male",3
+2,6,0,1,0,44,"high school","female",12
+3,6,0,1,0,65,"bachelor's degree or higher","male",9
+3,12,1,0,0,34,"bachelor's degree or higher","male",8
+3,7,0,0,0,66,"high school","female",11
+2,3,0,1,0,44,"high school","female",14
+3,7,1,1,1,34,"high school","male",13
+4,11,0,0,0,43,"some college","male",10
+4,8,1,0,0,30,"high school","male",9
+4,12,1,1,1,27,"some college","female",17
+2,8,1,1,1,20,"high school","female",17
+3,10,1,0,0,56,"high school","female",10
+4,10,1,0,0,42,"high school","male",12
+1,7,0,1,0,44,"bachelor's degree or higher","male",17
+1,6,0,0,0,28,"bachelor's degree or higher","female",14
+2,3,1,0,0,38,"bachelor's degree or higher","female",14
+4,9,1,1,1,29,"bachelor's degree or higher","male",10
+2,3,0,0,0,52,"some college","female",1
